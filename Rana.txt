@@ -1,0 +1,4 @@
+name : rana
+role : cloud engineer
+hoppy : reading
+skills : IOT , AWS , Devops 
