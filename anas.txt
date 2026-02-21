@@ -1,0 +1,5 @@
+Name: Anas Galal
+Role: DevOps Trainee
+Skills: Linux, Bash, Networking
+Hobby: Learning new tech
+Fun fact: I enjoy using PC
