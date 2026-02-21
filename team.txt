@@ -1,5 +1,8 @@
 Team Members: mariam mansour
 =============
+- Ahmed Amr (Fullstack .Net Developer)
+
 5. Create a file called project-ideas.txt with this content:
 Project Ideas:
 ==============
+Anas Galal (DevOps Trainee)
