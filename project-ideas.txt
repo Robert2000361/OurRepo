@@ -1,5 +1,8 @@
 Project Ideas:
 ==============
+A 
+B
+C
 A lab github
 B Ahmed: Build a weather app using an API
 C Anas: Build a CI/CD pipeline automation project
