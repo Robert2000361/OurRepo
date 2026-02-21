@@ -1,4 +1,5 @@
 Project Ideas:
 ==============
 A - Ahmed: Build a weather app using an API
+A Anas: Build a CI/CD pipeline automation project
 B
