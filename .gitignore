@@ -1,4 +1,4 @@
-.env
 temp/
 secrets.txt
 *.log
+.env
