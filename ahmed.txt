@@ -1,0 +1,5 @@
+Name: Ahmed Amr
+Role: Fullstack .Net Developer
+Skills: HTML, CSS, JavaScript
+Hobby: Traveling
+Fun fact: I can solve a Rubik's cube in under 2 minutes
