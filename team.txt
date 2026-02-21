@@ -4,5 +4,26 @@ Team Members: mariam mansour
 
 5. Create a file called project-ideas.txt with this content:
 Project Ideas:
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Robert
+
+>>>>>>> 868bdb6 (Save local changes before pull)
 ==============
 Anas Galal (DevOps Trainee)
