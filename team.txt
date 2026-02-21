@@ -1,4 +1,4 @@
-Team Members:
+Team Members: mariam mansour
 =============
 5. Create a file called project-ideas.txt with this content:
 Project Ideas:
