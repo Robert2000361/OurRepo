@@ -1,4 +1,4 @@
 Project Ideas:
 ==============
-A
+A - Ahmed: Build a weather app using an API
 B
